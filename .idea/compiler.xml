@@ -10,6 +10,7 @@
         <module name="spring-mongo-rest-api" />
         <module name="spring-datajpa-postgresql" />
         <module name="spring-elasticsearch" />
+        <module name="spring-boot-graphql" />
         <module name="spring-boot-dockerization" />
         <module name="spring-boot-aop" />
         <module name="spring-hello-world" />
@@ -22,6 +23,7 @@
       <module name="spring-boot-aop" options="-parameters" />
       <module name="spring-boot-api-doc" options="-parameters" />
       <module name="spring-boot-dockerization" options="-parameters" />
+      <module name="spring-boot-graphql" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />
       <module name="spring-datajpa-postgresql" options="-parameters" />
       <module name="spring-elasticsearch" options="-parameters" />
