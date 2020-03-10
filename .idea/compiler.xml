@@ -14,6 +14,7 @@
         <module name="spring-boot-dockerization" />
         <module name="spring-boot-aop" />
         <module name="spring-hello-world" />
+        <module name="spring-redis-cache" />
         <module name="spring-boot-rest-template" />
         <module name="spring-boot-rabbitmq" />
       </profile>
@@ -30,6 +31,7 @@
       <module name="spring-datajpa-postgresql" options="-parameters" />
       <module name="spring-elasticsearch" options="-parameters" />
       <module name="spring-mongo-rest-api" options="-parameters" />
+      <module name="spring-redis-cache" options="-parameters" />
     </option>
   </component>
 </project>
